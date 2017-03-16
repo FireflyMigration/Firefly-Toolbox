@@ -18,8 +18,11 @@
         <Edition>Pro</Edition>
         <Edition>Express_All</Edition>
       </VisualStudio>
+      <VisualStudio Version="15.0">
+		<Edition>Enterprise</Edition>
+	  </VisualStudio>
     </SupportedProducts>
-    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.6" />
   </Identifier>
   <References>
     <Reference Id="Microsoft.VisualStudio.MPF" MinVersion="10.0">
