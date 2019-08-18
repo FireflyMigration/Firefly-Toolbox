@@ -12,17 +12,12 @@
     <PreviewImage>favicon.ico</PreviewImage>
     <InstalledByMsi>false</InstalledByMsi>
     <SupportedProducts>
-      <VisualStudio Version="10.0">
-        <Edition>Ultimate</Edition>
-        <Edition>Premium</Edition>
-        <Edition>Pro</Edition>
-        <Edition>Express_All</Edition>
-      </VisualStudio>
-      <VisualStudio Version="15.0">
-		    <Edition>Enterprise</Edition>
+     
+      <VisualStudio Version="16.0">
+        <Edition>Enterprise</Edition>
         <Edition>Professional</Edition>
         <Edition>Community</Edition>
-	  </VisualStudio>
+      </VisualStudio>
     </SupportedProducts>
     <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.6" />
   </Identifier>
